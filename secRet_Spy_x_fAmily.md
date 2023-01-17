@@ -98,6 +98,12 @@ Các bạn để ý là với delta > 0, luôn có 1 nghiệm âm và 1 nghiệm
 
 ![image](https://user-images.githubusercontent.com/122846300/212804142-637d30cb-397d-44ba-8830-06e7a771127b.png)
 
+Sử dụng iroot của sympy, có thể dễ dàng tìm ra nghiệm:
+```python
+from gmpy2 import iroot
+delta = 1 + 4*k*n*e
+sqr = iroot(delta,2)[0]
+```
 Đến đây bruteforce được rồi đấy :)
 
 solve.py
