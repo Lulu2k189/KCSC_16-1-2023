@@ -129,6 +129,7 @@ for k in range(2,100000):
         p = p1
         q = q1
         print(k)
+        break
 phi = (p-1 )*(q-1)
 d = pow(e,-1,phi)
 m = long_to_bytes(pow(Cipher,d,n))
