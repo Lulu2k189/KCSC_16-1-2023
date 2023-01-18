@@ -137,3 +137,12 @@ print(m)
 >Flag: KCSC{1f_D4m14n_g3t_m4rr13d_w1th_4ny4,th3_34st_4nd_th3_W3st_w1ll_b3_p34c3ful!!!!}
 
 
+
+## Bonus
+Đạt được hòa bình Đông Tây
+
+Loid được nhận ngay phần thưởng :)
+![b1c](https://user-images.githubusercontent.com/122846300/213064590-46113b3c-1775-4d16-9fc2-c28aea545813.png)
+
+
+
